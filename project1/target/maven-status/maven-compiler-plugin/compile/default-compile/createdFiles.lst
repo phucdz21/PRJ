@@ -1,0 +1,14 @@
+controller\LoginServlet.class
+model\project1\resources\JakartaEE10Resource.class
+dao\StudentDAO.class
+entity\Student.class
+controller\StudentServlet.class
+filter\AuthFilter.class
+listener\AppListener.class
+model\project1\JakartaRestConfiguration.class
+entity\Department.class
+controller\LogoutServlet.class
+dao\UserAccountDAO.class
+dao\DepartmentDAO.class
+controller\DepartmentServlet.class
+entity\UserAccount.class
